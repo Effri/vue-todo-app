@@ -1,16 +1,24 @@
-# Vue Todo App
+# vue-first
 
-Простой пример Vue Todo App выполненный шаг за шагом.
-Этот пример приложения был частью семинара, посвященному Vue.js и Vue CLI.
-
-## Инструкция
-
-Установите зависимости. Убедитесь, что у вас уже есть ['nodejs`](https://nodejs.org/en/) & ['npm`](https://www.npmjs.com/) и он установлен в вашей системе.
-```bash
-$ npm install # or npm i
+## Project setup
+```
+npm install
 ```
 
-Запустите
-```bash
-$ npm run serve
+### Compiles and hot-reloads for development
 ```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
